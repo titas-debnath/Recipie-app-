@@ -1,0 +1,54 @@
+body{
+
+    background:linear-gradient(to right,rgb(223, 223, 107) 0%, rgb(239, 201, 114) 100%);
+    font-family: cursive;
+    color: darkgreen;
+}
+
+ul{
+    list-style-type:disc;
+}
+
+.menu2{
+    text-shadow: 2px 2px grey;
+    border: 5px solid rgb(192, 88, 88);
+    width: 80%;
+    border-radius: 10px; 
+}
+
+.para{
+    font-size: 20px;
+text-shadow: 2px 1px rgb(188, 140, 140);
+}
+
+.ingre{
+    text-shadow: 2px 2px grey;
+    border: 5px solid rgb(192, 88, 88);
+    width: 15%;
+    border-radius: 10px;   
+}
+
+.instruc{
+    text-shadow: 2px 2px grey;
+    border: 5px solid rgb(192, 88, 88);
+    width: 15%;
+    border-radius: 10px;  
+}
+
+.end{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blueviolet;
+text-shadow: 2px 2px rgb(201, 131, 0);
+}
+
+.boil{
+    text-decoration-line: underline;
+}
+
+.boil2{
+    text-decoration-line: underline;
+}
+
+ol h3 {
+    text-decoration: underline;
+}

@@ -1,0 +1,38 @@
+body{
+    background:linear-gradient(to right,rgb(223, 223, 107) 0%, rgb(239, 201, 114) 100%);
+    /* text-align: center;
+    list-style-position: inside; */
+    font-size: 15px;
+    font-family: cursive;
+}
+
+.menu{
+    text-shadow: 2px 2px grey;
+    border: 5px solid rgb(191, 191, 12);
+    width: 40%;
+    border-radius: 10px;
+}
+
+.para_1{
+font-size: 20px;
+text-shadow: 2px 1px rgb(225, 167, 60);
+}
+
+.ingre{
+    text-shadow: 2px 1px grey;
+    border: 5px solid rgb(191, 191, 12);
+    width: 10%;
+    border-radius: 10px;
+}
+
+.instruc{
+    text-shadow: 2px 1px grey;
+    border: 5px solid rgb(191, 191, 12);
+    width: 10%;
+    border-radius: 10px;
+}
+
+.last{
+text-decoration-line: underline;
+text-shadow: 2px 2px rgb(201, 131, 0);
+}
